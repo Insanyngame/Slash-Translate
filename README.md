@@ -1,6 +1,8 @@
 # Slash Translate
 ### A simple bot that translates using slash commands
 
+# Note: THIS CODE STILL HAVENT BEEN UPDATE TO THE DISCORDJS V13
+
 A simple translator that uses Slash Command.
 
 
